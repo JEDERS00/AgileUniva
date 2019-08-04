@@ -9,6 +9,6 @@ package com.mycompany.testgithub;
  *
  * @author JEDER
  */
-public class Class1 {
-    private int variable;
+public class Class2 {
+    private int variable1;
 }
