@@ -11,4 +11,5 @@ package com.mycompany.testgithub;
  */
 public class Class1 {
     private int variable;
+    private int variable2;
 }
